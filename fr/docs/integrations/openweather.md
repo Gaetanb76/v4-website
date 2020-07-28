@@ -32,7 +32,7 @@ Ensuite, vous allez recevoir un autre email contenant votre clé d'API:
 
 ![Créez un compte OpenWeather](/fr/img/docs/configuration/openweather/create-account-step-5.jpg)
 
-Cette clé d'API n'est pas valable immédiatemment, **vous devez attendre**.
+Cette clé d'API n'est pas valable immédiatement, **vous devez attendre**.
 
 ## Entrez cette clé dans Gladys Assistant
 
