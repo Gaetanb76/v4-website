@@ -14,8 +14,8 @@ Branchez en USB votre clé USB au Raspberry Pi (ou autre machine) faisant tourne
 
 Rendez-vous dans `Intégrations -> Z-Wave -> Paramètres`: vous devriez pouvoir sélectionner le port USB sur lequel est connectée votre clé USB Z-Wave.
 
-## Laissez Gladys découvrir votre périphériques
+## Laissez Gladys découvrir vos périphériques
 
-Pendant quelques minutes, Gladys va scanner le réseau Z-Wave pour découvrir tous les périphériques Z-wave disponible.
+Pendant quelques minutes, Gladys va scanner le réseau Z-Wave pour découvrir tous les périphériques Z-wave disponibles.
 
 Vous devriez ensuite pouvoir connecter vos périphériques à Gladys !
